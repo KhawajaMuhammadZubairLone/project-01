@@ -1,0 +1,26 @@
+.search-bar
+{
+    margin-right: 22%;
+    /* margin-bottom: -2%; */
+    width: 54%;
+}
+.cart-btn
+{
+    margin-right: 5%;
+}
+
+
+
+  .form-control::placeholder {
+    font-size: 0.95rem;
+    color: #aaa;
+    font-style: italic;
+  }
+  .drop-menu
+  {
+    height: 1000%;
+    overflow-y: auto;
+    overflow-x: hidden;
+    
+  }
+  
